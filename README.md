@@ -1,0 +1,1 @@
+This is the first odin project i'll be ever working on and i look forward to learning how to actually implement the html i've read in earlier modules in The Odin Project.
